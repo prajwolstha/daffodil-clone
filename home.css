@@ -1,0 +1,1106 @@
+.topp{
+    display:flex;
+    margin-right: 25px;
+    padding-top: 15px;
+   list-style-type: none;
+}
+
+
+
+
+.navbar{
+    position: absolute;
+    top: 0%;
+    left: -13%;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    
+}
+
+
+
+
+.classtext{
+   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  
+}
+
+.classtexts{
+   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  padding-left:12px;
+  width: 180px;
+  
+}
+
+
+
+
+.dropdown-menu {
+  display:none;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  background-color:white;
+ 
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content {
+
+}
+
+.dropdown-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* .dropdown-menu li {
+  margin-bottom: 10px;
+} */
+
+.dropdown-menu a {
+  color: black;
+  text-decoration: none;
+  display: block;
+  /* padding: 2px 5px; */
+}
+
+.dropdown-menu a:hover {
+  background-color: #ff3c6d;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown{
+  
+  font-size: 18px;
+  padding-left: 10px; 
+}
+
+
+/* aarko drop down */
+
+
+.classtext1{
+  font-family: 'Roboto', sans-serif;
+ font-size: 18px;
+ 
+}
+
+.classtexts1{
+  font-family: 'Roboto', sans-serif;
+ font-size: 18px;
+ padding-left:12px;
+ width: 180px;
+ 
+}
+
+
+
+
+.dropdown-menu1 {
+ display:none;
+ position: absolute;
+ top: 70%;
+ left: 50%;
+ background-color:white;
+
+ min-width: 150px;
+ box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content1 {
+
+}
+
+.dropdown-menu1 ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+
+/* .dropdown-menu li {
+ margin-bottom: 10px;
+} */
+
+.dropdown-menu1 a {
+ color: black;
+ text-decoration: none;
+ display: block;
+ /* padding: 2px 5px; */
+}
+
+.dropdown-menu1 a:hover {
+ background-color: #ff3c6d;
+ color: white;
+}
+
+.dropdown1:hover .dropdown-menu1 {
+ display: block;
+}
+
+.dropdown1{
+ 
+ font-size: 18px;
+ padding-left: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+.nav2{
+ 
+  position: absolute;
+  top: 8%;
+  left:-10% ;
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  
+}
+.nav2text{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  padding-left: 10px; 
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic{
+    width: 100px;
+    height: 110px;
+    background-color: #fff;
+    margin-right: 430px;
+    
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 88%);
+}
+
+.students{
+ height: 200px;
+}
+
+a{
+    text-decoration: none;
+    font-family:  'Open Sans', sans-serif;
+    display: inline;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: 13px;
+}
+ 
+i{
+    margin: 0 10px;
+}
+
+
+.navlogo:hover{
+  color: aqua;
+}
+.navlogin:hover{
+  color: black;
+}
+
+
+
+
+
+.login{
+color: #fff;  
+border-radius: 25px;
+width: 100px;
+height: 40px;
+border: none;
+background-color: #edc11f;
+cursor: pointer;
+margin-top: 15px;
+box-shadow: 5px 5px 5px rgb(68, 68, 68);
+}
+
+
+
+
+
+.subhead{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+
+.subtitle{
+    text-align: center; 
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: 'Dr Sugiyama', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ysabeau Infant', sans-serif;
+font-size: 30px;
+}
+
+.readmore{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #edc11f;
+    color: white;
+    background: transparent;
+    position: absolute;
+    left: 600px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+.readmore:hover{
+    background-color: #edc11f;
+    transition: 0.5s all ease;
+}
+
+
+
+.icons{
+    background: radial-gradient(934px at 6% 39.5%, rgb(255, 35, 90) 0.2%, rgb(255, 35, 144) 54.8%, rgb(250, 99, 160) 93.4%);
+ width:1100px;
+
+
+ position: absolute;
+ left: 140px;
+ top: 695px;
+ font-size: 70px;
+ display: flex;
+ justify-content: space-evenly;
+ align-items: center;
+
+}
+
+
+.icon-text{
+  padding-bottom: 5px;
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+ 
+}
+
+.middlepic1{
+  height: 80px;
+  margin-top: 13px;
+}
+
+
+img.middlepic1:hover{
+  transform:scale(1.2);
+  transition: 1s all ease;
+}
+
+.middlepic{
+    margin-top: 13px;
+    height:80px;
+
+    
+}
+img.middlepic:hover{
+    transform:scale(1.2);
+    
+    transition: 1s all ease;
+}
+
+.midicon{
+   justify-content: space-between;
+  text-align: center;
+ 
+   cursor: pointer;
+   transform: scaleX(30px);
+}
+
+.secondlast{
+    /* margin-top: 90px; */
+    margin-top: 10% ;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.bachha{
+   
+    width: 400px;
+
+    
+}
+
+
+.knowmore{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:none;
+    color: white;
+    background-color: maroon;
+    letter-spacing: 1px;
+    margin-top: 25px;
+    cursor: pointer;
+    margin-left: 7%;
+
+
+    
+}
+.knowmore:hover{
+    background-color: #edc11f;
+    transition: 0.5s all ease;
+}
+
+.textharu{
+    width: 50%;
+}
+
+.parahead{
+    font-size:30px ;
+    margin-bottom:20px;
+    color: #f33b62;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.para{
+    font-family: 'Dr Sugiyama', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ysabeau Infant', sans-serif;
+text-align: justify;
+}
+
+
+/* primary rw secondary suru */
+
+
+.level{
+    display: flex;
+    margin-top: 50px;
+    background-image:url(bg.jpg);
+    background-attachment: fixed;
+}
+
+
+
+
+.preprimary{
+margin-top: 50px;
+margin-left: 50px;
+background-color: purple;
+width: 300px;
+height: 390px;
+color: white;
+text-align: center;
+margin-right: 35px;
+border-radius: 8px;
+}
+
+.lowersecondary{
+margin-top: 50px;
+margin-bottom: 50px;
+background-color: #f33b62;
+width: 300px;
+height: 390px;
+color: white;
+
+text-align: center;
+border-radius: 8px;
+}
+
+
+.fa-solid.fa-person{
+    font-size: 60px;
+    background-color: white;
+    width: 80px; 
+    height:72px;
+    border-radius:50%;
+    margin-top: 5%;
+    align-items: center;
+    text-align: center;
+    padding-top:  9px;
+}
+
+.fa-solid.fa-pencil{
+    font-size: 40px;
+    background-color: white;
+    width: 80px; 
+    height:65px;
+    border-radius:50%;
+    margin-top: 5%;
+    align-items: center;
+    text-align: center;
+    padding-top:  18px;
+}
+
+div.preprimary:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(85, 85, 85);
+    transition: 0.7s all ease;
+    transform: scale(1.1);
+}
+
+
+
+div.lowersecondary:hover{
+    background-color: white;
+    color: rgb(34, 30, 30);
+    transition: 0.7s all ease;
+    transform: scale(1.1);
+}
+
+
+
+.primarytext{
+    padding: 15px;
+    text-align: center;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.primaryhead{
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+
+
+.learnmore{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:none;
+    color: white;
+    background:transparent;
+    border: 2px;
+    background-color: maroon;
+    letter-spacing: 1px;
+    margin-top: 25px;
+    cursor: pointer;
+    margin-left: 7%;
+}
+
+.headinsight{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    color: #f33b62;
+        
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+
+}
+.textinsight{
+    text-align: center; 
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ysabeau Infant', sans-serif;
+  }
+
+
+
+
+
+/* primary rw secondary end */
+
+
+
+/* code for slide */
+.slideimg:hover{
+  transform: scale(1.03);
+  
+
+  transition: 1s all ease;
+ 
+}
+
+
+.wrapper{
+  display: flex;
+  max-width: 1200px;
+  position: relative;
+ margin-left: 70px;
+  margin-top: 2%;
+
+  
+}
+.wrapper i{
+  top: 50%;
+  height: 44px;
+  width: 44px;
+  color: #343F4F;
+  cursor: pointer;
+  font-size: 1.15rem;
+  position: absolute;
+  text-align: center;
+  line-height: 44px;
+  background: #fff;
+  border-radius: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.1s linear;
+}
+.wrapper i:active{
+  transform: translateY(-50%) scale(0.9);
+}
+.wrapper i:hover{
+  background: #f2f2f2;
+}
+.wrapper i:first-child{
+  left: -22px;
+  display: none;
+}
+.wrapper i:last-child{
+  right: -22px;
+}
+.wrapper .carousel{
+  font-size: 0px;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+}
+.carousel.dragging{
+  cursor: grab;
+  scroll-behavior: auto;
+}
+.carousel.dragging img{
+  pointer-events: none;
+}
+.carousel img{
+  height: 340px;
+  object-fit: cover;
+  user-select: none;
+  margin-left: 14px;
+  width: calc(100% / 3);
+ 
+}
+.carousel img:first-child{
+  margin-left: 0px;
+  
+}
+
+@media screen and (max-width: 900px) {
+  .carousel img{
+    width: calc(100% / 2);
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .carousel img{
+    width: 100%;
+  }
+}
+
+/* slide end */
+
+
+/* slider paxi ko  */
+.more{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+    background-color: antiquewhite;
+    height: 550px;
+}
+
+
+.hariyali{
+   height: 90px;
+   
+}
+
+.noticeharu{
+width: 250px;
+height:300px;
+border-radius: 8px;
+background-color:white;
+border-top: #f33b62 solid;
+
+}
+
+
+/* image haru */
+.hariyali:hover{
+    transform: scale(1.1);
+    transition: 0.5s all ease;
+}
+
+.h4up{
+
+  color: purple;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+h4{
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+  font-weight: bolder;
+  color: #f33b62;
+}
+
+
+
+
+/* image ko side ko text */
+.pro1{
+    float: right;
+    padding-left: 15px ;
+}
+
+.pro2{
+    float: right;
+    padding-left: 15px ;
+ }
+
+ .pro3{
+    float: right;
+    padding-left: 15px ;
+ }
+    
+ 
+.minipic{
+    padding: 8px;
+    width: max-content;
+
+}
+
+.headnotice{
+
+        font-size:25px ;
+        margin-bottom:10px;
+        color: #f33b62;
+        margin-top: 40px;
+        font-family: 'Dr Sugiyama', cursive;
+        font-family: 'Ibarra Real Nova', serif;
+        font-family: 'Merienda', cursive;
+        font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.viewall{
+    width: 120px;
+    height: 37px;
+    border-radius: 30px;
+    border:none;
+    color: white;
+    background-color:#f33b62;
+    letter-spacing: 1.5px;
+    margin-top: 25px;
+    cursor: pointer;
+    box-shadow: 10px 10px 25px grey;
+
+    
+}
+.viewall:hover{
+    background-color: #edc11f;
+    transition: 0.5s all ease;
+}
+
+
+
+/*  last ko slide ko css*/
+.quote-container {
+
+    position: relative;
+    width: 100%;
+    height: 380px;
+    overflow: hidden;
+    background-image: url(school1.jpg);
+  
+    background-attachment: fixed;
+  
+    
+  }
+
+
+
+  
+  
+  .quote {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .quote.active {
+    opacity: 1;
+  }
+  
+  .quote img {
+    border: white solid;
+    width: 100px; /* Adjust the image size as per your requirement */
+    height: 100px; /* Adjust the image size as per your requirement */
+    border-radius: 50%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .quote .quote-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+  }
+  
+  .carousel-indicator {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    position: absolute;
+    top: 3178px;
+    left: 640px;
+
+  }
+  
+  .indicator {
+    width: 10px;
+    height: 10px;
+    background-color: #999;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .indicator.active {
+    background-color: #333;
+  }
+
+
+.guff{
+  margin-top: 10%;  
+  margin-left: 24%;
+  margin-right: 24%;
+  color: white;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.ff{
+text-align: center;   
+color: #f2f2f2;
+font-family: 'Dr Sugiyama', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Poppins', sans-serif;
+font-size: 35px;
+padding-top: 25px;
+
+}
+
+.fa-solid.fa-quote-right{
+  font-size: 40px;
+  text-align: center;
+  justify-content: center;
+}
+
+
+/* logo haru ko slide */
+.logoharu{
+height: 300px;
+}
+
+.logogang{
+  margin-top: 30px;
+height: 85px;
+width: 40px;
+
+
+}
+.item{
+  width:120px;
+  height: 120px;
+
+}
+
+.owl-prev{
+  position: absolute;
+  top: 25%;
+  left: 2%;
+  
+}
+
+
+.owl-next{
+  position: absolute;
+  top: 25%;
+  left: 96%;
+ 
+}
+
+.item:hover{
+  transform: scale(1.2);
+  transition:1s all ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Email and suscribe */
+.suscribe{
+  display: flex;
+  height:150px;
+  background-color:#f33b62 ;
+  align-items: center;
+  justify-content:space-around;
+  
+}
+.suscribetext{
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+
+
+.newsletter{
+  color: #fff;
+}
+
+.email{
+  width: 350px;
+  height: 45px;
+  border-radius: 4px;
+  border: none;
+  padding-left: 15px;
+ 
+}
+
+.susbutton{
+  height: 45px;
+  width: 250px;
+  background: radial-gradient(circle at -1% 57.5%, rgb(19, 170, 82) 0%, rgb(0, 102, 43) 90%);  border-radius: 4px;
+  border: none;
+  color: #fff;
+ cursor: pointer;
+}
+
+
+
+
+
+.subnewsletter{
+  font-family: 'Dr Sugiyama', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ysabeau Infant', sans-serif;
+font-size: 35px;
+
+}
+
+
+
+
+
+
+
+
+
+.footertop{
+  background-image: url(s5.jpg);
+height: 613px;
+}
+
+
+.footerlogo1{
+  height: 150px;
+margin-left: 500px;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+.footerlogo2{
+  margin-left: 50px;
+  height: 120px;
+  margin-bottom: 30px;
+}
+
+
+
+.footer{
+justify-content:space-evenly;
+  display: flex;
+
+  
+
+}
+
+
+.footer,li{
+  list-style-type: none;
+  color: white;
+}
+
+
+.foothead{
+  color: #edc11f;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.quick{
+height: 300px;
+
+}
+
+.okok:hover{
+  color: #edc11f;
+  transition: 0.5s ease;
+  margin-left: 8px;
+} 
+
+
+/* .okok{
+  font-size: 15px;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+} */
+
+.downloads,ul,li{
+  padding: 10px 10px 10px 0px;
+  letter-spacing: 1px;
+}
+
+
+.fa-sharp.fa-solid.fa-download{
+
+
+}
+
+.contactt{
+  display: flex;
+}
+
+
+.subfoothead{
+  color: #edc11f;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+  
+  
+  
+}
+
+.last{
+  height: 50px;
+  background-color: #f33b62;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ color: #fff;
+}
+
+
+.prajwol{
+  color: #edc11f;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.prajwol:hover{
+  color: plum;
+}
+
+.copy{
+  font-family: 'Dr Sugiyama', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Ysabeau Infant', sans-serif;
+
+}
+

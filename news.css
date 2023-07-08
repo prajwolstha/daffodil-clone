@@ -1,0 +1,175 @@
+ul,li{
+    display:flex;
+    margin-right: 25px;
+    padding-top: 15px;
+   
+    
+}
+
+
+.navbar{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic{
+    width: 80px;
+    height: 70px;
+    margin-left: 30px;
+    margin-right: 350px;
+    
+}
+
+ul,img{
+    justify-content: start;
+
+}
+
+.students{
+
+background-image: url(s5.jpg);
+height: 430px;
+background-size: cover;
+
+}
+
+a{
+    text-decoration: none;
+    font-family:  'Open Sans', sans-serif;
+    display: inline;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: 13px;
+}
+ 
+i{
+    margin: 0 10px;
+}
+
+button{
+    
+border-radius: 25px;
+width: 100px;
+height: 40px;
+border: none;
+background-color: #edc11f;
+
+
+
+}
+
+/* i:hover{
+    color: aqua;
+} */
+/* .bb,a:hover{
+   color: brown;
+} */
+a:hover{
+ color:aqua;
+}
+
+.pic{
+   background-color: white;
+
+}
+
+.h2news{
+    text-align: center;
+    margin-top: 135px;
+    color:white;
+    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    letter-spacing:2px;
+}
+.pnews{
+    text-align: center; 
+    color:white;
+    font-family: 'Dr Sugiyama', cursive;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+
+.small-nav{
+    background-color:lightgrey ;
+    height: 50px;
+}
+
+
+span{
+    color: maroon;
+}
+
+.homm{
+    padding-left: 80px;
+    padding-top: 13px;
+    font-size: 20px;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+
+h1{
+    text-align: center;
+    color: maroon;
+}
+
+.one{
+    padding-left: 50px;
+    
+}
+
+.all-pic{
+    height: 280px;
+    margin: 0;
+    
+}
+.date{
+    background-color: #edc11f;
+    color: antiquewhite;
+    width: 200px;
+    height: 35px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.Thursday{
+    padding-top: 10px;
+}
+.boxtext{
+    border: gray solid 0.5px;
+    border-top: none;
+    margin: 0;
+    width: 370px;
+    padding-top: 20px;
+}
+
+.button{
+    background-color: maroon;
+    color: azure;
+    border-radius: 28px;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+
+:hover{
+    color: #edc11f;
+}
